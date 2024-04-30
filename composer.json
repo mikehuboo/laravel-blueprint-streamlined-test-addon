@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^7.3|^8.2",
-        "jasonmccreary/laravel-test-assertions": "^1.0"
+        "jasonmccreary/laravel-test-assertions": "dev:main"
     },
     "require-dev": {
         "laravel-shift/blueprint": "^2.0",
